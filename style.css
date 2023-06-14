@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+
+footer {
+    background-color: #BE7E7F;    
+}
+body {
+    background-image: -webkit-linear-gradient(270deg,rgba(193,203,142,1.00) 0%,rgba(132,73,72,1.00) 95.13%,rgba(188,58,58,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(193,203,142,1.00) 0%,rgba(132,73,72,1.00) 95.13%,rgba(188,58,58,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(193,203,142,1.00) 0%,rgba(132,73,72,1.00) 95.13%,rgba(188,58,58,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(193,203,142,1.00) 0%,rgba(132,73,72,1.00) 95.13%,rgba(188,58,58,1.00) 100%);
+}
+
+.container-fluid .navbar.navbar-expand-lg.navbar-light.bg-light .navbar-toggler {
+    background-color: #FF0004;
+    color: #FD0004;
+}
+button {
+    background-color: #FC070B;
+    color: #D7F542;
+}
+.container-fluid .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: -webkit-linear-gradient(270deg,rgba(118,27,28,1.00) 0%,rgba(131,117,117,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(118,27,28,1.00) 0%,rgba(131,117,117,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(118,27,28,1.00) 0%,rgba(131,117,117,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(118,27,28,1.00) 0%,rgba(131,117,117,1.00) 100.00%);
+}
+.navbar-nav.mr-auto .nav-item.active .nav-link {
+    background-image: -webkit-linear-gradient(270deg,rgba(255,4,8,1.00) 0%,rgba(138,119,119,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,4,8,1.00) 0%,rgba(138,119,119,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(255,4,8,1.00) 0%,rgba(138,119,119,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(255,4,8,1.00) 0%,rgba(138,119,119,1.00) 100.00%);
+}
+.container .row .col-lg-4 {
+    background-color: #565E9E;
+}
+.row .col-lg-4 footer {
+    -webkit-box-shadow: 0px 0px #8EA4F5;
+    box-shadow: 0px 0px #8EA4F5;
+    background-image: -webkit-linear-gradient(270deg,rgba(13,27,108,1.00) 0%,rgba(34,37,111,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(13,27,108,1.00) 0%,rgba(34,37,111,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(13,27,108,1.00) 0%,rgba(34,37,111,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(13,27,108,1.00) 0%,rgba(34,37,111,1.00) 100%);
+}
